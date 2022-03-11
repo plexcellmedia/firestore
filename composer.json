@@ -1,5 +1,5 @@
 {
-    "name": "firevel/firestore",
+    "name": "plexcellmedia/firestore",
     "description": "Firestore wrapper for Laravel app running inside Google App Engine.",
     "keywords": ["firestore", "app engine", "google cloud", "laravel", "firevel"],
     "type": "library",
